@@ -1,3 +1,5 @@
-export default {
-  base: '/HOMI-AI-demo/',  
-}
+import { defineConfig } from 'vite'
+
+export default defineConfig({
+  base: '/HOMI-AI-demo/',
+})
